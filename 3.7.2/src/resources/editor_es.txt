@@ -1,0 +1,5 @@
+askZoom=Nivel de zoom (%)
+properties=Propiedades
+outline=Límite
+tasks=Tareas
+help=Ayuda
